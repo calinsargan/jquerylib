@@ -7,6 +7,12 @@
  */
 -->
 <config>
+    <tabs>
+        <allmygento translate="label">
+            <label>Mygento Extensions</label>
+            <sort_order>400</sort_order>
+        </allmygento>
+    </tabs>
     <sections>
         <jquerylib translate="label" module="jquerylib">
             <label>JQuery Library</label>
